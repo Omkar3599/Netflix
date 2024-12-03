@@ -1,3 +1,3 @@
 # Pro1
 1st Program
-Author Omkar
+Author Omkar Nayak
